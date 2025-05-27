@@ -14,6 +14,7 @@ export default {
         {name: "Report", path: "/example-report"},
         {name: "Weather", path: "/weather"},
         {name: "Cadastre Rénové", path: "/cadastre-renove"},
+        {name: "Example Map with WMTS Layer", path: "/example-map-with-wmts-layer"},
       ]
     }
   ],
